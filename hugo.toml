@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "anatole"
+# Replace `HelmUpgradeBot` with your username
+baseURL = "https://joambi.github.io/"
