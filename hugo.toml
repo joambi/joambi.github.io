@@ -1,9 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://joambi.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "anatole"
-
-baseURL = "https://joambi.github.io/"
 enableEmoji = true
 
 [params]
