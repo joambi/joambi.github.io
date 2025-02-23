@@ -1,0 +1,11 @@
+baseURL = 'https://joambi.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "anatole"
+enableEmoji = true
+
+[params]
+title = "A Bot with a Blog"
+author = "johannes Schuett"
+description = "Automatic blogging from a GitHub bot"
+
