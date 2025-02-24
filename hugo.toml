@@ -9,3 +9,4 @@ title = "A Bot with a Blog"
 author = "johannes Schuett"
 description = "Automatic blogging from a GitHub bot"
 
+mainSections = ["blog"]
