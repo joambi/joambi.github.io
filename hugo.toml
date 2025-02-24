@@ -9,4 +9,6 @@ title = "A Bot with a Blog"
 author = "johannes Schuett"
 description = "Automatic blogging from a GitHub bot"
 
+profilePicture = "images/AmbiPlugin_logo.gif"
 mainSections = ["blog"]
+favicon = "favicons/"
